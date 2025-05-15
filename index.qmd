@@ -1,0 +1,24 @@
+---
+title: "My first HTML page"
+---
+
+```{r}
+#format: html
+library(reactable) 
+```
+
+```{r}
+plot(women)
+```
+
+```{r}
+```
+
+```{r}
+```
+```{r}
+```
+
+```{r}
+```
+

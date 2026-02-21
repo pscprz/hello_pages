@@ -1,5 +1,5 @@
 ---
-title: "My second HTML page"
+title: "My second page"
 ---
 
 ```{r}
@@ -9,15 +9,4 @@ library(reactable)
 
 ```{r}
 reactable(iris)
-```
-
-```{r}
-```
-
-```{r}
-```
-```{r}
-```
-
-```{r}
 ```

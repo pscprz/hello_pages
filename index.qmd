@@ -1,5 +1,5 @@
 ---
-title: "My first HTML page"
+title: "My first page"
 ---
 
 ```{r}
@@ -8,10 +8,11 @@ library(reactable)
 ```
 
 ```{r}
-plot(women)
+reactable(infert)
 ```
 
 ```{r}
+plot(women)
 ```
 
 ```{r}
